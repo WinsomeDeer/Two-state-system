@@ -1,3 +1,3 @@
-# Particles-in-a-box
+# Two state system
 
-Python script to simulate the gas particles in a (2D) box in the statiscial mechanic sense.
+Python script to simulate the two state system in the statiscial mechanic sense.
