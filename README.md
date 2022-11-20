@@ -1,3 +1,3 @@
 # Two state system
 
-Python script to analyse the two state system in the statiscial mechanic sense.
+Python script to analyse the two state system, specifically to plot the heat capicity and average energy as functions of temperature.
